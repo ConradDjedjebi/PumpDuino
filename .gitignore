@@ -1,0 +1,8 @@
+.idea/
+out/
+doxygen/
+resources/
+src/
+*.iml
+*.docx
+*.ino
